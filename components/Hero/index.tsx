@@ -14,13 +14,6 @@ const Hero = () => {
                 className="wow fadeInUp mx-auto max-w-[800px] text-center"
                 data-wow-delay=".2s"
               >
-                <Image
-                  src="/images/logo/logo.png"
-                  alt="logo"
-                  width={140}
-                  height={30}
-                  className="w-full dark:hidden"
-                />
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
                   SCHELTIA REINSURANCE LTD
                 </h1>
