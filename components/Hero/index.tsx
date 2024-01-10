@@ -14,9 +14,12 @@ const Hero = () => {
                 className="wow fadeInUp mx-auto max-w-[800px] text-center"
                 data-wow-delay=".2s"
               >
-                <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  SCHELTIA REINSURANCE LTD
-                </h1>
+                <div className="mb-5 text-center">
+                  <img src="/images/logo/logo.png" alt="Scheltia Reinsurance Logo" className="mb-3" />
+                  <h1 className="text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
+                      SCHELTIA REINSURANCE LTD
+                  </h1>
+                </div>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
                    Security for a better future
                    Our mission is to provide client companies with the experience of a team of experienced professionals to successfully face competition in the market and obtain a solid leadership position.
