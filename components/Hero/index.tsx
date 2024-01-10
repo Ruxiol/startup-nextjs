@@ -18,9 +18,8 @@ const Hero = () => {
                   SCHELTIA REINSURANCE LTD
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
-                  20 Wenlock Road, London, England, N1 7GU
-                  +44-1245790569
-                  Free consultation  
+                   Security for a better future
+                   Our mission is to provide client companies with the experience of a team of experienced professionals to successfully face competition in the market and obtain a solid leadership position.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
